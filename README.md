@@ -55,9 +55,9 @@ pytest-cov
 - this is the first version of the project, contains:
 -- Stock Market REST API, end-to-end
 - next steps:
--- unit, integration and e2e tests
--- connection with postgres db
--- unit test
--- docker environment
--- logging and cache mechanism
--- input data using scrapping approach
+   - unit, integration and e2e tests
+   - connection with postgres db
+   - unit test
+   - docker environment
+   - logging and cache mechanism
+   - input data using scrapping approach
